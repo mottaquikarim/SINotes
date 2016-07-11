@@ -1,0 +1,27 @@
+.email-header.header-sub {
+	color: pink;
+}
+header .email-header {
+	color: orange;
+}
+
+.email-header { /* className selector */
+	color: blue;
+}
+
+.header-sub {
+	color: green;
+}
+
+h2 { /* tagName selector */
+	color:red;
+}
+
+#foo { /* idName selector */
+
+}
+
+#battheme .batman-image {
+	width: 200px;
+	height: 200px;
+}
